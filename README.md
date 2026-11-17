@@ -53,14 +53,14 @@ States where more rural teenagers can read and understand written instructions t
 
 | File | What it is |
 |---|---|
-| (research_paper_clean.docx)[research_paper_clean.docx] | The write-up |
-| (final_merged_data.csv)[final_merged_data.csv] | Merged state-level dataset (26 rows) |
-| (chart1_scatter_wpr.png)[chart1_scatter_wpr.png] | Figure 1: applied reading vs rural person WPR |
-| (chart2_all_correlations.png)[chart2_all_correlations.png]| Figure 2: all nine correlations |
-| (Untitled-1.py)[Untitled-1.py], (ASER_DATA_CODE.py)[ASER_DATA_CODE.py] | Extraction, merging and correlation code |
-| (Phase1_Research_Journal_Saiyami.docx)[Phase1_Research_Journal_Saiyami.docx]
-(Phase2_Research_Journal_Saiyami.docx)[Phase2_Research_Journal_Saiyami.docx]
-(phase 3,4,and 5.docx)[phase 3,4,and 5.docx]|Research journals |
+| [research_paper_clean.docx](research_paper_clean.docx) | The write-up |
+| [final_merged_data.csv](final_merged_data.csv) | Merged state-level dataset (26 rows) |
+| [chart1_scatter_wpr.png](chart1_scatter_wpr.png) | Figure 1: applied reading vs rural person WPR |
+| [chart2_all_correlations.png](chart2_all_correlations.png)| Figure 2: all nine correlations |
+| [Untitled-1.py](Untitled-1.py), [ASER_DATA_CODE.py](ASER_DATA_CODE.py) | Extraction, merging and correlation code |
+| [Phase1_Research_Journal_Saiyami.docx](Phase1_Research_Journal_Saiyami.docx)| Research Journal phase 1|
+|[Phase2_Research_Journal_Saiyami.docx](Phase2_Research_Journal_Saiyami.docx)|Research Journal phase 2|
+|[phase 3,4,and 5.docx](phase 3,4,and 5.docx)|Research journal phase 3,4, and 5 |
 
 ## Author
 
