@@ -61,8 +61,7 @@ States where more rural teenagers can read and understand written instructions t
 | `Untitled-1.py` , `ASER_reports_2024' | Extraction, merging and correlation code |
 | `Phase1_Research_Journal_Saiyami.docx`
 `Phase2_Research_Journal_Saiyami.docx`
-`phase 3,4,and 5.docx`
-|Research journals |
+`phase 3,4,and 5.docx`|Research journals |
 
 ## Author
 
